@@ -1,0 +1,13 @@
+Scipt Made by AJ
+
+Gives people chance to raid evidence stock every five minutes with custom items and minigames. grants players police role and then removes the role.
+
+Dependencies:
+
+QB Inventory
+Wasabi_policejob - QB-policejob
+
+
+
+
+Open Sourced so if you want to change it to your stash evidence room feel free and not give roles. All files are logged so don't steal.
