@@ -3,3 +3,8 @@ Evidence Raid Script Changes the players job role to police so they can access t
 Working with Wasabi_police
 
 To change the timer change the Section that states 50000 - 300000 that is five minutes
+
+
+qbore script with qb-inventory
+
+open sourced if you wanna change it to ox_inventory ect
